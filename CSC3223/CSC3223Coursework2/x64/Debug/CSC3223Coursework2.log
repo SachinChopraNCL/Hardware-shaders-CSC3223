@@ -1,0 +1,11 @@
+﻿  Coursework2.cpp
+C:\Users\Sachi\Desktop\Graphics\Common\MeshGeometry.h(48,1): warning C4267: 'return': conversion from 'size_t' to 'unsigned int', possible loss of data
+  Renderer.cpp
+C:\Users\Sachi\Desktop\Graphics\Common\MeshGeometry.h(52,1): warning C4267: 'return': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\Sachi\Desktop\Graphics\Common\MeshGeometry.h(48,1): warning C4267: 'return': conversion from 'size_t' to 'unsigned int', possible loss of data
+  RenderObject.cpp
+C:\Users\Sachi\Desktop\Graphics\Common\MeshGeometry.h(52,1): warning C4267: 'return': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\Sachi\Desktop\Graphics\Common\MeshGeometry.h(48,1): warning C4267: 'return': conversion from 'size_t' to 'unsigned int', possible loss of data
+  Generating Code...
+C:\Users\Sachi\Desktop\Graphics\Common\MeshGeometry.h(52,1): warning C4267: 'return': conversion from 'size_t' to 'unsigned int', possible loss of data
+  CSC3223Coursework2.vcxproj -> C:\Users\Sachi\Desktop\Graphics\x64\Debug\CSC3223Coursework2.exe
